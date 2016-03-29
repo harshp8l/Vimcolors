@@ -1,1 +1,1 @@
-cp ~/Vimcolors/.vim ~/
+cp -r ~/Vimcolors/.vim ~/
